@@ -15,6 +15,7 @@ export const ProjectCard = ({
   link,
 }: ProjectCardProps) => {
   return (
+    <div className="w-full h-[500px] p-4 shadow-lg rounded-lg">
     <Link
       href={link}
       target="_blank"
@@ -34,5 +35,6 @@ export const ProjectCard = ({
         <p className="mt-2 text-gray-300">{description}</p>
       </div>
     </Link>
+    </div>
   );
 };

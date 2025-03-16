@@ -225,19 +225,20 @@ export const OTHER_SKILL = [
 ] as const;
 
 export const PROJECTS = [
-  {
-    title: "Space Themed Website",
-    description:
-      'Embark on an interstellar journey with my "Space Themed Website", a mesmerizing space-themed website that invites you to explore the cosmic wonders beyond our world. Immerse yourself in an awe-inspiring digital experience that blends cutting-edge design with the mysteries of the universe.',
-    image: "/projects/project-3.png",
-    link: "https://example.com",
-  },
+  
   {
     title: "E-Commerce Website",
     description:
       'This Website is working properly at shop.This is save more time.It is delivery time few hours',
     image: "/projects/project-2.png",
     link: "https://krishna-kirna-store-kks.onrender.com",
+  },
+  {
+    title: "Yoga-Fitness",
+    description:
+      'This website is create for health purpose.Yoga-fitness is for good health. It have solve many desice.',
+    image: "/projects/project-3.png",
+    link: "https://example.com",
   },
   {
     title: "Modern Next.js 14 Portfolio",

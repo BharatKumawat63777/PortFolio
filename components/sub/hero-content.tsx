@@ -46,7 +46,7 @@ export const HeroContent = () => {
           className="text-lg text-gray-400 my-5 max-w-[600px]"
         >
           I&apos;m a Full Stack Software Engineer with experience in Website,
-          Mobile, and Software development. Check out my projects and skills.
+           Software development. Check out my projects and skills.
         </motion.p>
 
         <motion.a
